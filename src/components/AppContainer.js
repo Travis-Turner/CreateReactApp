@@ -2,9 +2,11 @@ import React from 'react';
 import './AppContainer.css';
 
 function AppContainer() {
-    return (
-      
-    );
-  }
+return (
+    <>
+      <p>Today's Food Vibe:</p>
+    </>
+  );
+}
   
   export default AppContainer;
