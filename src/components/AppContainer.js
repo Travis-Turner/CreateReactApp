@@ -1,12 +1,12 @@
 import React from 'react';
-import './AppContainer.css';
+
 
 function AppContainer() {
-return (
-    <>
-      <p>Today's Food Vibe:</p>
-    </>
+  return (
+      <>
+        <p>Energy Consumed:</p>
+      <>
   );
 }
   
-  export default AppContainer;
+export default AppContainer;

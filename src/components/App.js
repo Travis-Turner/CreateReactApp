@@ -1,14 +1,12 @@
 import React from 'react';
 import './App.css';
-import Header from './Header';
-import AppContainer from './AppContainer';
+
 
 function App() {
   return (
-    <>
-      <Header />
-      <AppContainer />
-    </>
+    <div className="App">
+      <h1>Calorie-Zen</h1>
+    </div>
   );
 }
 
