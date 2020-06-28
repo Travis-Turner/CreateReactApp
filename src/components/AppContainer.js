@@ -1,11 +1,12 @@
 import React from 'react';
 import './AppContainer.css';
+import FoodAdder from './FoodAdder';
 
 function AppContainer() {
   return (
       <div className="container">
         <p>Energy Consumed:</p>
-        <p>Add some food</p>
+        <FoodAdder />
       </div>
   );
 }
