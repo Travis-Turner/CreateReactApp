@@ -1,3 +1,7 @@
+@font-face {
+  src: url('../fonts/yellowtail-regular.woff') format('woff');
+  font-family: 'Yellowtail';
+}
 .header {
   display: flex;
   justify-content: center;
@@ -11,5 +15,6 @@
 .header__header {
  font-size: 40px;
  margin-left: 12px;
+ font-family: 'Yellowtail'
 }
 
