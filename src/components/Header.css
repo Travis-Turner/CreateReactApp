@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+.header__logo {
+  width: 64px;
+  height: 64px;
+}
+.header__header {
+ font-size: 40px;
+ margin-left: 12px;
+}
